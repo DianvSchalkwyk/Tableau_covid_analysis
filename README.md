@@ -11,4 +11,4 @@ Spreadsheet information:
     Row count:      238,935
 
 Tableau dashboard link:
-    https://public.tableau.com/app/profile/dian.van.schalkwyk/viz/Covid_analysis_16707710425460/Dashboard1?publish=yes
+    https://public.tableau.com/app/profile/dian.van.schalkwyk/viz/Covid_analysis_17131973223230/Dashboard1
